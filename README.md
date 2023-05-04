@@ -2,8 +2,7 @@
 <h3 align="center">I'm Tiago, a web developer from São Paulo</h3>
 
 <div align="center">
-  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/1024px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png"><br>
-  <small><sup>NON DVCOR DVCO</sup></small>
+  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/1024px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png">
 </div>
 
 <br>
@@ -17,36 +16,36 @@
 
 <div align="center">
   <h3><img height="20" width="20" style="vertical-align: middle" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript</h3>
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/prisma.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/jest.svg">
-  <img height="30" src="https://cdn.svgporn.com/logos/express.svg">
+  <a href="https://nodejs.org/en"><img height="30" width="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
+  <a href="https://www.typescriptlang.org/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>
+  <a href="https://www.prisma.io/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/prisma.svg"></a>
+  <a href="https://jestjs.io/pt-BR/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/jest.svg"></a>
+  <a href="https://expressjs.com/pt-br/"><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></a>
 </div>
 
 <br>
 
 <div align="center">
   <h3><img height="20" width="20" style="vertical-align: middle" src="https://cdn.svgporn.com/logos/python.svg"> Python</h3>
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/flask.svg">
-  <img height="30" width="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/numpy.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg">
-  <img height="30" width="30" src="https://www.rdkit.org/Images/logo.png">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/jupyter.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/selenium.svg">
-  <img height="30" src="https://apmonitor.com/dde/uploads/Main/python_beautifulsoup.png">
+  <a href="https://flask.palletsprojects.com/en/2.3.x/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/flask.svg"></a>
+  <a href="https://pandas.pydata.org/"><img height="30" width="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></a>
+  <a href="https://numpy.org/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/numpy.svg"></a>
+  <a href="https://matplotlib.org/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/matplotlib-icon.svg"></a>
+  <a href="https://www.rdkit.org/"><img height="30" width="30" src="https://www.rdkit.org/Images/logo.png"></a>
+  <a href="https://jupyter.org/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/jupyter.svg"></a>
+  <a href="https://www.selenium.dev/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/selenium.svg"></a>
+  <a href="https://pypi.org/project/beautifulsoup4/"><img height="30" src="https://apmonitor.com/dde/uploads/Main/python_beautifulsoup.png"></a>
 </div>
 
 <div align="center">
   <h3>Development General</h3>
   <img height="30" width="30" src="https://cdn.svgporn.com/logos/html-5.svg">
   <img height="30" width="30" src="https://cdn.svgporn.com/logos/css-3.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/php.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/mysql-icon.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/postgresql.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/mongodb-icon.svg">
-  <img height="30" width="30" src="https://cdn.svgporn.com/logos/git-icon.svg">
+  <a href="https://www.php.net/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/php.svg"></a>
+  <a href="https://www.mysql.com/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/mysql-icon.svg"></a>
+  <a href="https://www.postgresql.org/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/postgresql.svg"></a>
+  <a href="https://www.mongodb.com/pt-br"><img height="30" width="30" src="https://cdn.svgporn.com/logos/mongodb-icon.svg"></a>
+  <a href="https://git-scm.com/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/git-icon.svg"></a>
   <img height="30" width="30" src="https://cdn.svgporn.com/logos/bash-icon.svg">
 </div>
 
@@ -58,11 +57,11 @@
 
 <div align="center">
   <h3>Data Analysis</h3>
-  <img height="30" src="https://mahmoudelgendi.com/wp-content/uploads/2022/03/Knime-White.svg">
+  <a href="https://www.knime.com/"><img height="30" src="https://mahmoudelgendi.com/wp-content/uploads/2022/03/Knime-White.svg"></a>
 </div>
 
 Contact me: 
 
 [![Mail Badge](https://img.shields.io/badge/-trutnv@protonmail.com-006bed?style=flat-square&link=mailto:trutnv@protonmail.com)](mailto:trutnv@protonmail.com)
 
-<small>Christ is Lord ♱</small>
+<small><sub>CHRISTO NIHIL PRAEPONERE</sub></small>
