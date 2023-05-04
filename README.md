@@ -2,7 +2,8 @@
 <h3 align="center">I'm Tiago, a web developer from São Paulo</h3>
 
 <div align="center">
-  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/1024px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png">
+  <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/1024px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png"><br>
+  <small><sup>NON DVCOR DVCO</sup></small>
 </div>
 
 <br>
