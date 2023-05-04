@@ -60,3 +60,9 @@
   <h3>Data Analysis</h3>
   <img height="30" src="https://mahmoudelgendi.com/wp-content/uploads/2022/03/Knime-White.svg">
 </div>
+
+Contact me: 
+
+[![Mail Badge](https://img.shields.io/badge/-trutnv@protonmail.com-006bed?style=flat-square&link=mailto:trutnv@protonmail.com)](mailto:trutnv@protonmail.com)
+
+<small>Christ is Lord ♱</small>
