@@ -1,9 +1,11 @@
 <h1 align="center">Welcome, stranger!</h1>
-<h3 align="center">I'm Tiago, a web developer from São Paulo</h3>
+<h3 align="center">I'm Tiago, a web developer from São Paulo, Brazil</h3>
 
 <div align="center">
   <img style="width: 50px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Bandeira_do_estado_de_S%C3%A3o_Paulo.svg/1024px-Bandeira_do_estado_de_S%C3%A3o_Paulo.svg.png">
 </div>
+
+<h3 align="center"><a href="https://niaev.github.io" target="_blank">Check out my Portfolio!</a></h3>
 
 <br>
 
