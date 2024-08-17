@@ -17,17 +17,6 @@
 <br>
 
 <div align="center">
-  <h3><img height="20" width="20" style="vertical-align: middle" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript</h3>
-  <a href="https://nodejs.org/en"><img height="30" width="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
-  <a href="https://www.typescriptlang.org/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>
-  <a href="https://www.prisma.io/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/prisma.svg"></a>
-  <a href="https://jestjs.io/pt-BR/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/jest.svg"></a>
-  <a href="https://expressjs.com/pt-br/"><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></a>
-</div>
-
-<br>
-
-<div align="center">
   <h3><img height="20" width="20" style="vertical-align: middle" src="https://cdn.svgporn.com/logos/python.svg"> Python</h3>
   <a href="https://flask.palletsprojects.com/en/2.3.x/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/flask.svg"></a>
   <a href="https://pandas.pydata.org/"><img height="30" width="30" src="https://pandas.pydata.org/static/img/pandas_mark.svg"></a>
@@ -38,6 +27,19 @@
   <a href="https://www.selenium.dev/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/selenium.svg"></a>
   <a href="https://pypi.org/project/beautifulsoup4/"><img height="30" src="https://apmonitor.com/dde/uploads/Main/python_beautifulsoup.png"></a>
 </div>
+
+<br>
+
+<div align="center">
+  <h3><img height="20" width="20" style="vertical-align: middle" src="https://cdn.svgporn.com/logos/javascript.svg"> JavaScript</h3>
+  <a href="https://nodejs.org/en"><img height="30" width="30" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"></a>
+  <a href="https://www.typescriptlang.org/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/typescript-icon.svg"></a>
+  <a href="https://www.prisma.io/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/prisma.svg"></a>
+  <a href="https://jestjs.io/pt-BR/"><img height="30" width="30" src="https://cdn.svgporn.com/logos/jest.svg"></a>
+  <a href="https://expressjs.com/pt-br/"><img height="30" src="https://cdn.svgporn.com/logos/express.svg"></a>
+</div>
+
+<br>
 
 <div align="center">
   <h3>Development General</h3>
@@ -51,11 +53,15 @@
   <img height="30" width="30" src="https://cdn.svgporn.com/logos/bash-icon.svg">
 </div>
 
+<br>
+
 <div align="center">
   <h3>Operating Systems</h3>
   <img height="30" width="30" src="https://cdn.svgporn.com/logos/ubuntu.svg">
   <img height="30" width="30" src="https://cdn.svgporn.com/logos/microsoft-windows-icon.svg">
 </div>
+
+<br>
 
 <div align="center">
   <h3>Data Analysis</h3>
